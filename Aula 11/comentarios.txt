@@ -1,0 +1,3 @@
+let idade = 21
+
+NotaNumber = NaN
