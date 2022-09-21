@@ -1,0 +1,7 @@
+arrays = é a base de tudo que será trabalhado no js
+
+o numero entre aspas é string
+sem aspas é numero
+
+length é comprimento em ingles, isso vai te ajudar a lembrar que ele mede o tamanho do array
+E esse numero é o tamanho do array, ou seja, a quantidade de "coisas" que tem dentro do array
