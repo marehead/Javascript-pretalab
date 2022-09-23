@@ -1,0 +1,5 @@
+exercicio de hoje
+
+- organizar o nome das alunas por nota 
+- colocar qual alunas tem nota superior a 7
+- e quais tem nota inferior a 7
