@@ -1,0 +1,56 @@
+laço de repetição via node
+
+i++ = incrementar
+d++ = decrementar
+
+
+
+lacos.js
+
+let i = 0;
+// Enquanto o número for menor que 10
+while (i < 11){
+	console.log("7 x " + i + " = " + 7*i);
+	i++;
+}
+
+node --version (ver se está funcionando)
+node "aula04JSpretalab/lacos.js" (para rodar o node run)
+
+
+
+let salario = 1000;
+while (salario < 5000) {
+	salario += 500;
+console.log("O salário é R$" + salario.toFixed(2));
+}
+
+
+
+const alunas = [
+    { aluno: 'Amanda', nota: 10},
+    { aluno: 'Simara', nota: 8},
+    { aluno: 'Nathy', nota: 9},
+    { aluno: 'Vera', nota: 10},
+];
+
+let index = 0;
+let somaDasNotas = 0;
+let totalAlunas = alunas.lenght;
+
+do {
+   somaDasNotas += alunas [index].nota;
+   index++
+} while (index < totalAlunas);
+
+   let media = somaDasNotas / totalAlunas;
+console.log(media);
+
+
+agostinho, ok.
+
+rh da k2 solicitar numero do rh da k2
+
+
+
+
