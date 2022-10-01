@@ -5,4 +5,4 @@
 
 - jogo da velha:
 - calculadora salarial:
-- TO-DO:
+- TO-DO list:
